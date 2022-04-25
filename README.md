@@ -2,6 +2,10 @@
 
 # www.inframonit.com
 
++ [docs.inframonit.com](http://docs.inframonit.com/)
++ [logo.inframonit.com](http://logo.inframonit.com/)
+
+
 + hourly checking of any infrastructure with:
   + apisch + multisitemap
   + apipong
