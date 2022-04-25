@@ -1,4 +1,4 @@
-![logo](http://logo.inframonit.com/1/cover.png)
+![logo](http://logo.inframonit.com/2/cover.png)
 
 # www.inframonit.com
 
