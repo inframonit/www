@@ -1,3 +1,5 @@
+![logo](http://logo.inframonit.com/1/cover.png)
+
 # www.inframonit.com
 
 + hourly checking of any infrastructure with:
