@@ -15,3 +15,10 @@
 
 With multisitemap it's possible to check the infrastructure nad compare every hour what kind of differents are comming and doing some event
 what can help fix bugs or create ticket and send information to support team
+
+
+
+---
+
++ [edit](https://github.com/inframonit/www/edit/main/README.md)
++ [inframonit/www/](https://github.com/inframonit/www/)
