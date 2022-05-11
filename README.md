@@ -24,6 +24,11 @@ what can help fix bugs or create ticket and send information to support team
 
 
 
+OFFER.
+monitorowanie infrastruktury firm, tych lokalnych również ze skanowaniem mapy sieci i jej replikowaniem
+
+
+
 ---
 
 + [edit](https://github.com/inframonit/www/edit/main/README.md)
