@@ -27,7 +27,8 @@ what can help fix bugs or create ticket and send information to support team
 OFFER.
 monitorowanie infrastruktury firm, tych lokalnych również ze skanowaniem mapy sieci i jej replikowaniem
 
-
+MORE:
+[Wielka rezygnacja specjalistów ds. cyberbezpieczeństwa - CRN](https://crn.pl/aktualnosci/wielka-rezygnacja-specjalistow-ds-cyberbezpieczenstwa/)
 
 ---
 
